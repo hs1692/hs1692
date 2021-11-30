@@ -1,5 +1,5 @@
 
-![Tinted City Scene Email Header](https://user-images.githubusercontent.com/83140239/143978900-c090b8ed-2a31-4a46-be5f-5afb99757362.png)
+![Tinted City Scene Email Header](https://user-images.githubusercontent.com/83140239/143978900-c090b8ed-2a31-4a46-be5f-5afb99757362.png){:height="1280px" width="1600px"}
 
 
 
